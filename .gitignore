@@ -1,5 +1,5 @@
 # exclude everything *
-/*
+*
 # not file !
 !.gitignore
 !app.init.sh
